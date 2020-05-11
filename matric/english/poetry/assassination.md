@@ -1,4 +1,7 @@
-# Assassination - Edwin Muir (1887-1959)
+layout: page
+title: "Assassination - Edwin Muir (1887-1959)"
+permalink: /matric/english/poetry/assassination
+
 it was wild.\
 the\
 bullet hit high.\
