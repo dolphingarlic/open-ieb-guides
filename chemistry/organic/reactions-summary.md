@@ -104,7 +104,7 @@ For IEB, if 2 elimination reactions are possible, either one will be accepted.
 - Equation:
   - $\ce{C5H11OH -> C5H10 + H2O}$
 
-## Cracking
+### Cracking
 
 - Alkanes to smaller hydrocarbons, including **at least 1 alkene**.
 - Conditions:
