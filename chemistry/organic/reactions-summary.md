@@ -8,8 +8,9 @@
   - Oxygen present.
 - Complete combustion equation:
   - $\ce{C5H10 + 7O2 -> 5CO2 + 5H2O}$
-- Incomplete combustion equation:
+- Incomplete combustion equations:
   - $\ce{C5H10 + 5O2 -> 5CO + 5H2O}$
+  - $\ce{2C5H10 + 5O2 -> 10C + 10H2O}$
 
 ## Substitution Reactions
 
@@ -99,7 +100,7 @@ For IEB, if 2 elimination reactions are possible, either one will be accepted.
 
 - Alcohols to alkenes and water.
 - Conditions:
-  - Acid catalyst (e.g. $\ce{H2SO4} or $\ce{H3PO4}$).
+  - Acid catalyst (e.g. $\ce{H2SO4}$ or $\ce{H3PO4}$).
   - Heat.
 - Equation:
   - $\ce{C5H11OH -> C5H10 + H2O}$
