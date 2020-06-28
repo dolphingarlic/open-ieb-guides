@@ -113,7 +113,7 @@ For IEB, if 2 elimination reactions are possible, either one will be accepted.
 - Equation:
   - $\ce{C5H12 -> C3H6 + C2H6}$
 
-### Esterification
+## Esterification
 
 - Carboxylic acids and alcohols to esters and water.
 - Conditions:
