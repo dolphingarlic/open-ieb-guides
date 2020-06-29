@@ -56,6 +56,6 @@ Secondly,
 
 Both of these poems are about portraits, be it a literal portrait or just an image of something. Which poem would you say captures the definitions of a portrait better?
 
-### *Lost or Found World* - Mongane Wally Serote (1944-) and *Nightsong: City* - Dennis Brutus (1924-)
+### *Lost or Found World* - Mongane Wally Serote (1944-) and [*Nightsong: City* - Dennis Brutus (1924-)](/english/poetry/nightsong-city)
 
 All three of these poems are Apartheid-era poems that comment on inequality in South Africa. Even though the types of inequality (i.e. class, economic, and racial) seem quite different, they are actually very similar and are caused by the same problems.
