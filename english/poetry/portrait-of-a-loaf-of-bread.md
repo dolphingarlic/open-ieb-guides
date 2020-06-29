@@ -6,10 +6,10 @@ mowed by the reaper's scythe,<br/>
 bundled into sheaves<br/>
 carted to the mill<br/>
 and ground into flour.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Kneaded into mountains of dough<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;to be churned by rollers<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;and spat into pans as red hot<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;as Satan's cauldron
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kneaded into mountains of dough<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to be churned by rollers<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and spat into pans as red hot<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;as Satan's cauldron
 
 Brought to the café,<br/>
 warmly wrapped in cellophane,<br/>
@@ -38,7 +38,11 @@ The entire first stanza of the poem is about the process behind the making of a 
 
 The length **emphasizes the intricacy and length of the process**, while the descriptive language creates a **romantic (and somewhat immersive) mood**.
 
-Stuff
+*Stuff*
+
+The indentation in the last four lines of this stanza could possibly be there to separate the 2 main parts of the process (i.e. making the flour and turning that flour into a loaf of bread). It shows the separation between farmers manually harvesting the wheat and the machines in the factory automatically forming dough and baking the dough.
+
+However, the indentation could also possibly emphasize those lines. This makes sense because the last four lines are the steps in breadmaking the average person is most familiar with.
 
 #### Stanza 2
 
