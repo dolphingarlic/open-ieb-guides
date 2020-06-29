@@ -32,11 +32,15 @@ and licks his lips and laughs<br/>
 
 **TL;DR: Bread fanfiction - although bread is enjoyed by all regardless of background, most take it for granted and few people understand the intricate process behind making it.**
 
+#### Stanza 1
+
 The entire first stanza of the poem is about the process behind the making of a loaf of bread, from the "rolling fields" all the way to "Satan's cauldron". It's the longest stanza and uses the most descriptive language (e.g. "rolling fields", "gold-topped wheat stalks", and "mountains of dough").
 
 The length **emphasizes the intricacy and length of the process**, while the descriptive language creates a **romantic (and somewhat immersive) mood**.
 
+Stuff
 
+#### Stanza 2
 
 ### The Title
 
@@ -49,6 +53,10 @@ Firstly, **we never get a physical representation of the bread in the poem** (e.
 This lack of physical representation is likely intentional - by not giving us the details, **the message of the poem becomes much more universal** (imagine if the poem was titled *Portrait of a Loaf of **Albany Low GI Sandwich Bread*** instead).
 
 Secondly, 
+
+### Other Elements
+
+
 
 ## Related Poems
 
