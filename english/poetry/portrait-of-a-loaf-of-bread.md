@@ -30,9 +30,13 @@ and licks his lips and laughs<br/>
 
 ### Message and Themes
 
-**TL;DR: Although bread is enjoyed by all regardless of background, most take it for granted and few people understand the intricate process behind making it.**
+**TL;DR: Bread fanfiction - although bread is enjoyed by all regardless of background, most take it for granted and few people understand the intricate process behind making it.**
 
-Stuff
+The entire first stanza of the poem is about the process behind the making of a loaf of bread, from the "rolling fields" all the way to "Satan's cauldron". It's the longest stanza and uses the most descriptive language (e.g. "rolling fields", "gold-topped wheat stalks", and "mountains of dough").
+
+The length **emphasizes the intricacy and length of the process**, while the descriptive language creates a **romantic (and somewhat immersive) mood**.
+
+
 
 ### The Title
 
@@ -40,9 +44,9 @@ A portrait is defined as either (1) a painting, drawing, photograph, or engravin
 
 In this poem, the second definition is far better captured than the first.
 
-Firstly, we never get a physical representation of the bread in the poem (e.g. we don't know whether it's sourdough or wholewheat). The closest thing we get is the description of the bread being "warmly wrapped in cellophane".
+Firstly, **we never get a physical representation of the bread in the poem** (e.g. we don't know whether it's sourdough or wholewheat). The closest thing we get is the description of the bread being "warmly wrapped in cellophane".
 
-This lack of physical representation is likely intentional - by not 
+This lack of physical representation is likely intentional - by not giving us the details, **the message of the poem becomes much more universal** (imagine if the poem was titled *Portrait of a Loaf of **Albany Low GI Sandwich Bread*** instead).
 
 Secondly, 
 
