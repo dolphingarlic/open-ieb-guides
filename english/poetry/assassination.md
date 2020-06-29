@@ -1,4 +1,4 @@
-# Assassination - Edwin Muir (1887-1959)
+# *Assassination* - Edwin Muir (1887-1959)
 
 it was wild.<br/>
 the<br/>
