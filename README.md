@@ -2,3 +2,4 @@
 
 - [Chemistry](/chemistry)
 - [English](/english)
+- [Music](/music)
