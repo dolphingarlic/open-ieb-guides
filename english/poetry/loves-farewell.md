@@ -70,7 +70,7 @@ Drayton died in London in December, 1631. He was buried in Westminster Abbey und
 
 ## Related Poems
 
-### [*To Althea, from Prison* - Richard Lovelace (1618-1658)](/english/poetry/to-althea-from-prison)
+### [*To Althea, from Prison* - Richard Lovelace (1618-1658)](to-althea-from-prison)
 
 Both of these poems are about love and confinement. What would Lovelace say to Drayton after reading this poem?
 

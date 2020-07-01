@@ -78,10 +78,10 @@ Althea's identity is unknown and some doubt that she even existed at all. Howeve
 
 ## Related Poems
 
-### [*Love's Farewell* - Michael Drayton (1563-1593)](/english/poetry/loves-farewell)
+### [*Love's Farewell* - Michael Drayton (1563-1593)](loves-farewell)
 
 Both of these poems talk about love and imprisonment.
 
-### *Touch* - Hugh Lewin (1939-2018)
+### [*Touch* - Hugh Lewin (1939-2018)](touch)
 
 Both of these poems are about physical imprisonment, but both the reactions and the circumstances of the speakers differ greatly. How would Lewin react to Lovelace's poem?

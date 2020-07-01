@@ -32,7 +32,7 @@ and licks his lips and laughs<br/>
 
 ### Message and Themes
 
-**TL;DR: Bread fanfiction - although bread is enjoyed by all regardless of background, most take it for granted and few people understand the intricate process behind making it.**
+**TL;DR: Bread fanfiction - although bread is enjoyed by all regardless of background, most take it for granted and few people understand the intricate process behind the making of it.**
 
 #### Stanza 1
 
@@ -52,7 +52,7 @@ The second stanza shows the reader how wealthy people enjoy bread.
 
 We know that the people who eat bread in this stanza are wealthy because they are sitting at a "food-bedecked breakfast table" at a café. Butter and maramalade are also associated with wealth, as they are quite expensive.
 
-A lot in this stanza is presented in a delicate way - the bread is "warmly wrapped in cellophane" and a cook carefully prepares the food by "slic\[ing\] and toast\[ing\]" the bread.
+A lot in this stanza is presented in a delicate way - the bread is "warmly wrapped in cellophane" and a cook carefully prepares the food by "slic[ing] and toast[ing]" the bread.
 
 However, the people eating the bread clearly take it for granted. A "food-bedecked breafast table" implies that there is a surplus of food, so the diners probably wouldn't care much about the bread because they have food already. Even though the cook slices, toasts, butters, and spreads marmalade on the bread, there is no indication that the diners care about any of that effort at all.
 
@@ -60,7 +60,7 @@ However, the people eating the bread clearly take it for granted. A "food-bedeck
 
 This stanza presents us with a contrasting image of a poor labourer enjoying bread.
 
-The labourer lacks the delicacy of the wealthier diners in the second stanza (he "mauls a hunk" of bread whereas the diners eat "slice\[s\]"), but he eats bread just like they do. This tells us that bread is enjoyed by everyone regardless of economic background.
+The labourer lacks the delicacy of the wealthier diners in the second stanza (he "mauls a hunk" of bread whereas the diners eat "slice[s]"), but he eats bread just like they do. This tells us that bread is enjoyed by everyone regardless of economic background.
 
 However, the verb "maul" implies that the labourer tore a chunk of the bread without any care or consideration. This implies that he also doesn't fully appreciate the process behind making the bread. He does remark that "Man can live on bread alone" though, which implies that he somewhat appreciates the process (unlike the diners in the second stanza).
 
@@ -90,6 +90,6 @@ Even if we didn't know what bread was, we would be able to describe its purpose 
 
 Both of these poems are about portraits, be it a literal portrait or just an image of something. Which poem would you say captures the definitions of a portrait better?
 
-### *Lost or Found World* - Mongane Wally Serote (1944-) and [*Nightsong: City* - Dennis Brutus (1924-2009)](/english/poetry/nightsong-city)
+### *Lost or Found World* - Mongane Wally Serote (1944-) and [*Nightsong: City* - Dennis Brutus (1924-2009)](nightsong-city)
 
 All three of these poems are Apartheid-era poems that comment on inequality in South Africa. Even though the types of inequality (i.e. class, economic, and racial) seem quite different, they are actually very similar and are caused by the same problems.

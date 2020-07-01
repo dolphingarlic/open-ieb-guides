@@ -34,7 +34,7 @@ In this stanza, the speaker tells his "love" to sleep well. We are never told ex
 
 The presence of police cars also implies that there is a lot of crime in the shanty towns.
 
-Additionally, "docks" are described as "restless" and "streets" are described as "tunnel\[s\]", which evoke an eerie mood despite the gentle tone.
+Additionally, "docks" are described as "restless" and "streets" are described as "tunnel[s]", which evoke an eerie mood despite the gentle tone.
 
 #### Stanza 2
 
